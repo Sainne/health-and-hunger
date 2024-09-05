@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": "#sainne.healthandhunger:elaborated_food"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "sainne.healthandhunger:event/eat/elaborated_food"
+    }
+  }
+  

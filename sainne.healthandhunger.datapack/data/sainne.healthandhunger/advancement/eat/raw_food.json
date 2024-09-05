@@ -4,13 +4,13 @@
         "trigger": "minecraft:consume_item",
         "conditions": {
           "item": {
-            "items": "#minecraft:cat_food"
+            "items": "#sainne.healthandhunger:raw_food"
           }
         }
       }
     },
     "rewards": {
-      "function": "sainne.healthandhunger:event/food/eat_test"
+      "function": "sainne.healthandhunger:event/eat/raw_food"
     }
   }
   

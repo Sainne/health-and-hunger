@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": "#sainne.healthandhunger:cooked_meat"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "sainne.healthandhunger:event/eat/cooked_meat"
+    }
+  }
+  
