@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": "#minecraft:cat_food"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "sainne.healthandhunger:event/food/eat_test"
+    }
+  }
+  

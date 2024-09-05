@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:lore": [
+          "{\"text\":\"Strength I 0:05\",\"color\":\"blue\",\"italic\":false}"
+        ]
+      }
+    }
+  ]
+  

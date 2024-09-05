@@ -1,0 +1,1 @@
+schedule function sainne.healthandhunger:clock/tick5 1t replace
