@@ -9,8 +9,8 @@ A minecraft datapack that changes food and regeneration mechanics. Making the ga
 * However to compensate certain foods have different short potion effects.
 ### 🧪 Food potion effects
 Some examples include:
-* Golden Carrots: Absorption I for 1 minute
-* Beetroot Soup: Strength I for 20 seconds
-* Rabbit Soup: Speed I and Jump Boost I for 60 seconds
+* Golden Carrot: Absorption I for 30 seconds and Speed I and Haste I for 10 seconds
+* Beetroot Soup: Speed II and Haste II for 10 seconds
+* Rabbit Soup: Strength I for 1 minute,Regeneration I for 10 seconds,Speed I and Haste I for 10 seconds
 * Cooked Porkchop: Regeneration I for 5 seconds
-* Cooked Beef: Strength I for 5 seconds
+* Pumpkin Pie: Speed II and Haste II for 10 seconds
